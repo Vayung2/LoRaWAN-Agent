@@ -1,0 +1,1201 @@
+Sensor Alias,Gateway Alias,Variable,Statistic,Value
+sensor01,gatewayA,RSSI (dBm),mean,-93.39333099812899
+sensor01,gatewayA,SNR (dB),mean,9.15060065622354
+sensor01,gatewayA,Spreading Factor (-),mean,7.0
+sensor01,gatewayA,Bandwidth (Hz),mean,125000.0
+sensor01,gatewayA,Frequency (Hz),mean,904591353.1939615
+sensor01,gatewayA,Airtime (s),mean,0.0680807667216294
+sensor01,gatewayA,Counter (-),mean,101051.02032482123
+sensor01,gatewayA,# Receiving Gateways (-),mean,2.024468385035327
+sensor01,gatewayA,RSSI (dBm),std,9.546696632858511
+sensor01,gatewayA,SNR (dB),std,5.401585943838039
+sensor01,gatewayA,Spreading Factor (-),std,0.0
+sensor01,gatewayA,Bandwidth (Hz),std,0.0
+sensor01,gatewayA,Frequency (Hz),std,455374.9744631406
+sensor01,gatewayA,Airtime (s),std,0.0022123239734735552
+sensor01,gatewayA,Counter (-),std,39893.936548753394
+sensor01,gatewayA,# Receiving Gateways (-),std,0.7362639720944446
+sensor01,gatewayA,RSSI (dBm),min,-119.0
+sensor01,gatewayA,SNR (dB),min,-9.0
+sensor01,gatewayA,Spreading Factor (-),min,7.0
+sensor01,gatewayA,Bandwidth (Hz),min,125000.0
+sensor01,gatewayA,Frequency (Hz),min,903900000.0
+sensor01,gatewayA,Airtime (s),min,0.066816
+sensor01,gatewayA,Counter (-),min,32604.0
+sensor01,gatewayA,# Receiving Gateways (-),min,1.0
+sensor01,gatewayA,RSSI (dBm),max,-42.0
+sensor01,gatewayA,SNR (dB),max,15.0
+sensor01,gatewayA,Spreading Factor (-),max,7.0
+sensor01,gatewayA,Bandwidth (Hz),max,125000.0
+sensor01,gatewayA,Frequency (Hz),max,905300000.0
+sensor01,gatewayA,Airtime (s),max,0.077056
+sensor01,gatewayA,Counter (-),max,173447.0
+sensor01,gatewayA,# Receiving Gateways (-),max,4.0
+sensor01,gatewayA,RSSI (dBm),count,117049.0
+sensor01,gatewayA,SNR (dB),count,113376.0
+sensor01,gatewayA,Spreading Factor (-),count,117049.0
+sensor01,gatewayA,Bandwidth (Hz),count,117049.0
+sensor01,gatewayA,Frequency (Hz),count,117049.0
+sensor01,gatewayA,Airtime (s),count,117049.0
+sensor01,gatewayA,Counter (-),count,117049.0
+sensor01,gatewayA,# Receiving Gateways (-),count,117049.0
+sensor01,gatewayB,RSSI (dBm),mean,-109.5846658900773
+sensor01,gatewayB,SNR (dB),mean,-5.772039687703318
+sensor01,gatewayB,Spreading Factor (-),mean,7.0
+sensor01,gatewayB,Bandwidth (Hz),mean,125000.0
+sensor01,gatewayB,Frequency (Hz),mean,904529693.9531928
+sensor01,gatewayB,Airtime (s),mean,0.06954923308270676
+sensor01,gatewayB,Counter (-),mean,116932.29460976385
+sensor01,gatewayB,# Receiving Gateways (-),mean,3.137774012496029
+sensor01,gatewayB,RSSI (dBm),std,9.20961997861396
+sensor01,gatewayB,SNR (dB),std,2.2230585364364033
+sensor01,gatewayB,Spreading Factor (-),std,0.0
+sensor01,gatewayB,Bandwidth (Hz),std,0.0
+sensor01,gatewayB,Frequency (Hz),std,481726.42550336494
+sensor01,gatewayB,Airtime (s),std,0.002557526026575982
+sensor01,gatewayB,Counter (-),std,36722.66802789949
+sensor01,gatewayB,# Receiving Gateways (-),std,0.6921776761553274
+sensor01,gatewayB,RSSI (dBm),min,-122.0
+sensor01,gatewayB,SNR (dB),min,-9.75
+sensor01,gatewayB,Spreading Factor (-),min,7.0
+sensor01,gatewayB,Bandwidth (Hz),min,125000.0
+sensor01,gatewayB,Frequency (Hz),min,903900000.0
+sensor01,gatewayB,Airtime (s),min,0.066816
+sensor01,gatewayB,Counter (-),min,32673.0
+sensor01,gatewayB,# Receiving Gateways (-),min,1.0
+sensor01,gatewayB,RSSI (dBm),max,-67.0
+sensor01,gatewayB,SNR (dB),max,3.0
+sensor01,gatewayB,Spreading Factor (-),max,7.0
+sensor01,gatewayB,Bandwidth (Hz),max,125000.0
+sensor01,gatewayB,Frequency (Hz),max,905300000.0
+sensor01,gatewayB,Airtime (s),max,0.077056
+sensor01,gatewayB,Counter (-),max,173435.0
+sensor01,gatewayB,# Receiving Gateways (-),max,4.0
+sensor01,gatewayB,RSSI (dBm),count,9443.0
+sensor01,gatewayB,SNR (dB),count,9222.0
+sensor01,gatewayB,Spreading Factor (-),count,9443.0
+sensor01,gatewayB,Bandwidth (Hz),count,9443.0
+sensor01,gatewayB,Frequency (Hz),count,9443.0
+sensor01,gatewayB,Airtime (s),count,9443.0
+sensor01,gatewayB,Counter (-),count,9443.0
+sensor01,gatewayB,# Receiving Gateways (-),count,9443.0
+sensor01,gatewayC,RSSI (dBm),mean,-108.60018500220741
+sensor01,gatewayC,SNR (dB),mean,-2.7202855284937337
+sensor01,gatewayC,Spreading Factor (-),mean,7.0
+sensor01,gatewayC,Bandwidth (Hz),mean,125000.0
+sensor01,gatewayC,Frequency (Hz),mean,904609647.444657
+sensor01,gatewayC,Airtime (s),mean,0.06819473063258141
+sensor01,gatewayC,Counter (-),mean,105680.37069817311
+sensor01,gatewayC,# Receiving Gateways (-),mean,2.191981836146909
+sensor01,gatewayC,RSSI (dBm),std,2.9016308451705
+sensor01,gatewayC,SNR (dB),std,4.175491911949213
+sensor01,gatewayC,Spreading Factor (-),std,0.0
+sensor01,gatewayC,Bandwidth (Hz),std,0.0
+sensor01,gatewayC,Frequency (Hz),std,450710.1764536504
+sensor01,gatewayC,Airtime (s),std,0.0022748165242661325
+sensor01,gatewayC,Counter (-),std,40387.70636301865
+sensor01,gatewayC,# Receiving Gateways (-),std,0.6742885006628924
+sensor01,gatewayC,RSSI (dBm),min,-119.0
+sensor01,gatewayC,SNR (dB),min,-10.25
+sensor01,gatewayC,Spreading Factor (-),min,7.0
+sensor01,gatewayC,Bandwidth (Hz),min,125000.0
+sensor01,gatewayC,Frequency (Hz),min,903900000.0
+sensor01,gatewayC,Airtime (s),min,0.066816
+sensor01,gatewayC,Counter (-),min,32604.0
+sensor01,gatewayC,# Receiving Gateways (-),min,1.0
+sensor01,gatewayC,RSSI (dBm),max,-93.0
+sensor01,gatewayC,SNR (dB),max,12.0
+sensor01,gatewayC,Spreading Factor (-),max,7.0
+sensor01,gatewayC,Bandwidth (Hz),max,125000.0
+sensor01,gatewayC,Frequency (Hz),max,905300000.0
+sensor01,gatewayC,Airtime (s),max,0.077056
+sensor01,gatewayC,Counter (-),max,173447.0
+sensor01,gatewayC,# Receiving Gateways (-),max,4.0
+sensor01,gatewayC,RSSI (dBm),count,95134.0
+sensor01,gatewayC,SNR (dB),count,84580.0
+sensor01,gatewayC,Spreading Factor (-),count,95134.0
+sensor01,gatewayC,Bandwidth (Hz),count,95134.0
+sensor01,gatewayC,Frequency (Hz),count,95134.0
+sensor01,gatewayC,Airtime (s),count,95134.0
+sensor01,gatewayC,Counter (-),count,95134.0
+sensor01,gatewayC,# Receiving Gateways (-),count,95134.0
+sensor02,gatewayA,RSSI (dBm),mean,-99.9489623887653
+sensor02,gatewayA,SNR (dB),mean,4.110776911490257
+sensor02,gatewayA,Spreading Factor (-),mean,7.0
+sensor02,gatewayA,Bandwidth (Hz),mean,125000.0
+sensor02,gatewayA,Frequency (Hz),mean,904603050.2641824
+sensor02,gatewayA,Airtime (s),mean,0.05513755728587319
+sensor02,gatewayA,Counter (-),mean,164194.59217707175
+sensor02,gatewayA,# Receiving Gateways (-),mean,2.4533248748609564
+sensor02,gatewayA,RSSI (dBm),std,9.480639126003908
+sensor02,gatewayA,SNR (dB),std,5.452488723870398
+sensor02,gatewayA,Spreading Factor (-),std,0.0
+sensor02,gatewayA,Bandwidth (Hz),std,0.0
+sensor02,gatewayA,Frequency (Hz),std,454230.35974073334
+sensor02,gatewayA,Airtime (s),std,0.0037213812685236215
+sensor02,gatewayA,Counter (-),std,47411.21725682358
+sensor02,gatewayA,# Receiving Gateways (-),std,0.5262966739930363
+sensor02,gatewayA,RSSI (dBm),min,-124.0
+sensor02,gatewayA,SNR (dB),min,-10.25
+sensor02,gatewayA,Spreading Factor (-),min,7.0
+sensor02,gatewayA,Bandwidth (Hz),min,125000.0
+sensor02,gatewayA,Frequency (Hz),min,903900000.0
+sensor02,gatewayA,Airtime (s),min,0.046336
+sensor02,gatewayA,Counter (-),min,84219.0
+sensor02,gatewayA,# Receiving Gateways (-),min,1.0
+sensor02,gatewayA,RSSI (dBm),max,-44.0
+sensor02,gatewayA,SNR (dB),max,15.0
+sensor02,gatewayA,Spreading Factor (-),max,7.0
+sensor02,gatewayA,Bandwidth (Hz),max,125000.0
+sensor02,gatewayA,Frequency (Hz),max,905300000.0
+sensor02,gatewayA,Airtime (s),max,0.066816
+sensor02,gatewayA,Counter (-),max,248523.0
+sensor02,gatewayA,# Receiving Gateways (-),max,3.0
+sensor02,gatewayA,RSSI (dBm),count,115072.0
+sensor02,gatewayA,SNR (dB),count,105559.0
+sensor02,gatewayA,Spreading Factor (-),count,115072.0
+sensor02,gatewayA,Bandwidth (Hz),count,115072.0
+sensor02,gatewayA,Frequency (Hz),count,115072.0
+sensor02,gatewayA,Airtime (s),count,115072.0
+sensor02,gatewayA,Counter (-),count,115072.0
+sensor02,gatewayA,# Receiving Gateways (-),count,115072.0
+sensor02,gatewayB,RSSI (dBm),mean,-107.94594594594595
+sensor02,gatewayB,SNR (dB),mean,-6.952702702702703
+sensor02,gatewayB,Spreading Factor (-),mean,7.0
+sensor02,gatewayB,Bandwidth (Hz),mean,125000.0
+sensor02,gatewayB,Frequency (Hz),mean,904651351.3513514
+sensor02,gatewayB,Airtime (s),mean,0.05546897297297297
+sensor02,gatewayB,Counter (-),mean,112757.56756756757
+sensor02,gatewayB,# Receiving Gateways (-),mean,2.1621621621621623
+sensor02,gatewayB,RSSI (dBm),std,4.642472676554225
+sensor02,gatewayB,SNR (dB),std,1.3703682567686537
+sensor02,gatewayB,Spreading Factor (-),std,0.0
+sensor02,gatewayB,Bandwidth (Hz),std,0.0
+sensor02,gatewayB,Frequency (Hz),std,502007.9800282183
+sensor02,gatewayB,Airtime (s),std,0.0029891366877642343
+sensor02,gatewayB,Counter (-),std,41999.03648203038
+sensor02,gatewayB,# Receiving Gateways (-),std,0.37368387661182234
+sensor02,gatewayB,RSSI (dBm),min,-120.0
+sensor02,gatewayB,SNR (dB),min,-9.25
+sensor02,gatewayB,Spreading Factor (-),min,7.0
+sensor02,gatewayB,Bandwidth (Hz),min,125000.0
+sensor02,gatewayB,Frequency (Hz),min,903900000.0
+sensor02,gatewayB,Airtime (s),min,0.046336
+sensor02,gatewayB,Counter (-),min,94211.0
+sensor02,gatewayB,# Receiving Gateways (-),min,2.0
+sensor02,gatewayB,RSSI (dBm),max,-97.0
+sensor02,gatewayB,SNR (dB),max,-3.0
+sensor02,gatewayB,Spreading Factor (-),max,7.0
+sensor02,gatewayB,Bandwidth (Hz),max,125000.0
+sensor02,gatewayB,Frequency (Hz),max,905300000.0
+sensor02,gatewayB,Airtime (s),max,0.056576
+sensor02,gatewayB,Counter (-),max,224041.0
+sensor02,gatewayB,# Receiving Gateways (-),max,3.0
+sensor02,gatewayB,RSSI (dBm),count,37.0
+sensor02,gatewayB,SNR (dB),count,37.0
+sensor02,gatewayB,Spreading Factor (-),count,37.0
+sensor02,gatewayB,Bandwidth (Hz),count,37.0
+sensor02,gatewayB,Frequency (Hz),count,37.0
+sensor02,gatewayB,Airtime (s),count,37.0
+sensor02,gatewayB,Counter (-),count,37.0
+sensor02,gatewayB,# Receiving Gateways (-),count,37.0
+sensor02,gatewayC,RSSI (dBm),mean,-79.10359398216939
+sensor02,gatewayC,SNR (dB),mean,14.550143000285336
+sensor02,gatewayC,Spreading Factor (-),mean,7.0
+sensor02,gatewayC,Bandwidth (Hz),mean,125000.0
+sensor02,gatewayC,Frequency (Hz),mean,904598445.1284229
+sensor02,gatewayC,Airtime (s),mean,0.05519855996603692
+sensor02,gatewayC,Counter (-),mean,170482.99981426448
+sensor02,gatewayC,# Receiving Gateways (-),mean,2.204209562725536
+sensor02,gatewayC,RSSI (dBm),std,6.462696327627394
+sensor02,gatewayC,SNR (dB),std,1.1082072290598917
+sensor02,gatewayC,Spreading Factor (-),std,0.0
+sensor02,gatewayC,Bandwidth (Hz),std,0.0
+sensor02,gatewayC,Frequency (Hz),std,457680.5469199927
+sensor02,gatewayC,Airtime (s),std,0.003666975145188577
+sensor02,gatewayC,Counter (-),std,45588.08215162557
+sensor02,gatewayC,# Receiving Gateways (-),std,0.6765533120117724
+sensor02,gatewayC,RSSI (dBm),min,-111.0
+sensor02,gatewayC,SNR (dB),min,-9.0
+sensor02,gatewayC,Spreading Factor (-),min,7.0
+sensor02,gatewayC,Bandwidth (Hz),min,125000.0
+sensor02,gatewayC,Frequency (Hz),min,903900000.0
+sensor02,gatewayC,Airtime (s),min,0.046336
+sensor02,gatewayC,Counter (-),min,84219.0
+sensor02,gatewayC,# Receiving Gateways (-),min,1.0
+sensor02,gatewayC,RSSI (dBm),max,-64.0
+sensor02,gatewayC,SNR (dB),max,15.0
+sensor02,gatewayC,Spreading Factor (-),max,7.0
+sensor02,gatewayC,Bandwidth (Hz),max,125000.0
+sensor02,gatewayC,Frequency (Hz),max,905300000.0
+sensor02,gatewayC,Airtime (s),max,0.061696
+sensor02,gatewayC,Counter (-),max,248523.0
+sensor02,gatewayC,# Receiving Gateways (-),max,3.0
+sensor02,gatewayC,RSSI (dBm),count,150752.0
+sensor02,gatewayC,SNR (dB),count,150699.0
+sensor02,gatewayC,Spreading Factor (-),count,150752.0
+sensor02,gatewayC,Bandwidth (Hz),count,150752.0
+sensor02,gatewayC,Frequency (Hz),count,150752.0
+sensor02,gatewayC,Airtime (s),count,150752.0
+sensor02,gatewayC,Counter (-),count,150752.0
+sensor02,gatewayC,# Receiving Gateways (-),count,150752.0
+sensor03,gatewayA,RSSI (dBm),mean,-90.7095211887727
+sensor03,gatewayA,SNR (dB),mean,10.300348217231978
+sensor03,gatewayA,Spreading Factor (-),mean,7.0
+sensor03,gatewayA,Bandwidth (Hz),mean,125000.0
+sensor03,gatewayA,Frequency (Hz),mean,904595311.7988231
+sensor03,gatewayA,Airtime (s),mean,0.05667362702679818
+sensor03,gatewayA,Counter (-),mean,105371.05534905382
+sensor03,gatewayA,# Receiving Gateways (-),mean,2.5977901020278567
+sensor03,gatewayA,RSSI (dBm),std,9.169895706090518
+sensor03,gatewayA,SNR (dB),std,5.278097237268006
+sensor03,gatewayA,Spreading Factor (-),std,0.0
+sensor03,gatewayA,Bandwidth (Hz),std,0.0
+sensor03,gatewayA,Frequency (Hz),std,458435.4120469213
+sensor03,gatewayA,Airtime (s),std,0.0007002310279007149
+sensor03,gatewayA,Counter (-),std,37839.73995026886
+sensor03,gatewayA,# Receiving Gateways (-),std,0.6265455267031103
+sensor03,gatewayA,RSSI (dBm),min,-118.0
+sensor03,gatewayA,SNR (dB),min,-9.75
+sensor03,gatewayA,Spreading Factor (-),min,7.0
+sensor03,gatewayA,Bandwidth (Hz),min,125000.0
+sensor03,gatewayA,Frequency (Hz),min,903900000.0
+sensor03,gatewayA,Airtime (s),min,0.056576
+sensor03,gatewayA,Counter (-),min,40670.0
+sensor03,gatewayA,# Receiving Gateways (-),min,1.0
+sensor03,gatewayA,RSSI (dBm),max,-39.0
+sensor03,gatewayA,SNR (dB),max,15.0
+sensor03,gatewayA,Spreading Factor (-),max,7.0
+sensor03,gatewayA,Bandwidth (Hz),max,125000.0
+sensor03,gatewayA,Frequency (Hz),max,905300000.0
+sensor03,gatewayA,Airtime (s),max,0.061696
+sensor03,gatewayA,Counter (-),max,174707.0
+sensor03,gatewayA,# Receiving Gateways (-),max,4.0
+sensor03,gatewayA,RSSI (dBm),count,118105.0
+sensor03,gatewayA,SNR (dB),count,115158.0
+sensor03,gatewayA,Spreading Factor (-),count,118105.0
+sensor03,gatewayA,Bandwidth (Hz),count,118105.0
+sensor03,gatewayA,Frequency (Hz),count,118105.0
+sensor03,gatewayA,Airtime (s),count,118105.0
+sensor03,gatewayA,Counter (-),count,118105.0
+sensor03,gatewayA,# Receiving Gateways (-),count,118105.0
+sensor03,gatewayB,RSSI (dBm),mean,-112.57459366980325
+sensor03,gatewayB,SNR (dB),mean,-7.052612419700214
+sensor03,gatewayB,Spreading Factor (-),mean,7.0
+sensor03,gatewayB,Bandwidth (Hz),mean,125000.0
+sensor03,gatewayB,Frequency (Hz),mean,904624328.4858854
+sensor03,gatewayB,Airtime (s),mean,0.05667454576561162
+sensor03,gatewayB,Counter (-),mean,92458.39298545766
+sensor03,gatewayB,# Receiving Gateways (-),mean,3.5892215568862276
+sensor03,gatewayB,RSSI (dBm),std,6.778768533065001
+sensor03,gatewayB,SNR (dB),std,1.6184228348188479
+sensor03,gatewayB,Spreading Factor (-),std,0.0
+sensor03,gatewayB,Bandwidth (Hz),std,0.0
+sensor03,gatewayB,Frequency (Hz),std,462739.55546745384
+sensor03,gatewayB,Airtime (s),std,0.0007034809066995373
+sensor03,gatewayB,Counter (-),std,32116.386045925556
+sensor03,gatewayB,# Receiving Gateways (-),std,0.5878574203538143
+sensor03,gatewayB,RSSI (dBm),min,-122.0
+sensor03,gatewayB,SNR (dB),min,-10.5
+sensor03,gatewayB,Spreading Factor (-),min,7.0
+sensor03,gatewayB,Bandwidth (Hz),min,125000.0
+sensor03,gatewayB,Frequency (Hz),min,903900000.0
+sensor03,gatewayB,Airtime (s),min,0.056576
+sensor03,gatewayB,Counter (-),min,40814.0
+sensor03,gatewayB,# Receiving Gateways (-),min,1.0
+sensor03,gatewayB,RSSI (dBm),max,-67.0
+sensor03,gatewayB,SNR (dB),max,4.0
+sensor03,gatewayB,Spreading Factor (-),max,7.0
+sensor03,gatewayB,Bandwidth (Hz),max,125000.0
+sensor03,gatewayB,Frequency (Hz),max,905300000.0
+sensor03,gatewayB,Airtime (s),max,0.061696
+sensor03,gatewayB,Counter (-),max,175960.0
+sensor03,gatewayB,# Receiving Gateways (-),max,4.0
+sensor03,gatewayB,RSSI (dBm),count,11690.0
+sensor03,gatewayB,SNR (dB),count,11675.0
+sensor03,gatewayB,Spreading Factor (-),count,11690.0
+sensor03,gatewayB,Bandwidth (Hz),count,11690.0
+sensor03,gatewayB,Frequency (Hz),count,11690.0
+sensor03,gatewayB,Airtime (s),count,11690.0
+sensor03,gatewayB,Counter (-),count,11690.0
+sensor03,gatewayB,# Receiving Gateways (-),count,11690.0
+sensor03,gatewayC,RSSI (dBm),mean,-61.69623832324656
+sensor03,gatewayC,SNR (dB),mean,14.747016503414919
+sensor03,gatewayC,Spreading Factor (-),mean,7.0
+sensor03,gatewayC,Bandwidth (Hz),mean,125000.0
+sensor03,gatewayC,Frequency (Hz),mean,904598954.0545577
+sensor03,gatewayC,Airtime (s),mean,0.056672734478931196
+sensor03,gatewayC,Counter (-),mean,111639.38969772095
+sensor03,gatewayC,# Receiving Gateways (-),mean,2.494681152727479
+sensor03,gatewayC,RSSI (dBm),std,6.225364360229512
+sensor03,gatewayC,SNR (dB),std,0.544886726248642
+sensor03,gatewayC,Spreading Factor (-),std,0.0
+sensor03,gatewayC,Bandwidth (Hz),std,0.0
+sensor03,gatewayC,Frequency (Hz),std,457499.8507431925
+sensor03,gatewayC,Airtime (s),std,0.0006970845785181683
+sensor03,gatewayC,Counter (-),std,37464.249224677595
+sensor03,gatewayC,# Receiving Gateways (-),std,0.7263671796796928
+sensor03,gatewayC,RSSI (dBm),min,-104.0
+sensor03,gatewayC,SNR (dB),min,-9.0
+sensor03,gatewayC,Spreading Factor (-),min,7.0
+sensor03,gatewayC,Bandwidth (Hz),min,125000.0
+sensor03,gatewayC,Frequency (Hz),min,903900000.0
+sensor03,gatewayC,Airtime (s),min,0.056576
+sensor03,gatewayC,Counter (-),min,40670.0
+sensor03,gatewayC,# Receiving Gateways (-),min,1.0
+sensor03,gatewayC,RSSI (dBm),max,-50.0
+sensor03,gatewayC,SNR (dB),max,15.0
+sensor03,gatewayC,Spreading Factor (-),max,7.0
+sensor03,gatewayC,Bandwidth (Hz),max,125000.0
+sensor03,gatewayC,Frequency (Hz),max,905300000.0
+sensor03,gatewayC,Airtime (s),max,0.061696
+sensor03,gatewayC,Counter (-),max,175962.0
+sensor03,gatewayC,# Receiving Gateways (-),max,4.0
+sensor03,gatewayC,RSSI (dBm),count,123429.0
+sensor03,gatewayC,SNR (dB),count,123429.0
+sensor03,gatewayC,Spreading Factor (-),count,123429.0
+sensor03,gatewayC,Bandwidth (Hz),count,123429.0
+sensor03,gatewayC,Frequency (Hz),count,123429.0
+sensor03,gatewayC,Airtime (s),count,123429.0
+sensor03,gatewayC,Counter (-),count,123429.0
+sensor03,gatewayC,# Receiving Gateways (-),count,123429.0
+sensor04,gatewayA,RSSI (dBm),mean,-94.75685885711356
+sensor04,gatewayA,SNR (dB),mean,8.241811213841002
+sensor04,gatewayA,Spreading Factor (-),mean,7.0
+sensor04,gatewayA,Bandwidth (Hz),mean,125000.0
+sensor04,gatewayA,Frequency (Hz),mean,904593610.3656348
+sensor04,gatewayA,Airtime (s),mean,0.05682311235705372
+sensor04,gatewayA,Counter (-),mean,108526.01014512572
+sensor04,gatewayA,# Receiving Gateways (-),mean,2.2058169945812893
+sensor04,gatewayA,RSSI (dBm),std,9.940000480299572
+sensor04,gatewayA,SNR (dB),std,5.455732921893673
+sensor04,gatewayA,Spreading Factor (-),std,0.0
+sensor04,gatewayA,Bandwidth (Hz),std,0.0
+sensor04,gatewayA,Frequency (Hz),std,456546.6310005673
+sensor04,gatewayA,Airtime (s),std,0.001097750998199828
+sensor04,gatewayA,Counter (-),std,39594.51590958158
+sensor04,gatewayA,# Receiving Gateways (-),std,0.5990188711114973
+sensor04,gatewayA,RSSI (dBm),min,-120.0
+sensor04,gatewayA,SNR (dB),min,-10.0
+sensor04,gatewayA,Spreading Factor (-),min,7.0
+sensor04,gatewayA,Bandwidth (Hz),min,125000.0
+sensor04,gatewayA,Frequency (Hz),min,903900000.0
+sensor04,gatewayA,Airtime (s),min,0.056576
+sensor04,gatewayA,Counter (-),min,39770.0
+sensor04,gatewayA,# Receiving Gateways (-),min,1.0
+sensor04,gatewayA,RSSI (dBm),max,-41.0
+sensor04,gatewayA,SNR (dB),max,15.0
+sensor04,gatewayA,Spreading Factor (-),max,7.0
+sensor04,gatewayA,Bandwidth (Hz),max,125000.0
+sensor04,gatewayA,Frequency (Hz),max,905300000.0
+sensor04,gatewayA,Airtime (s),max,0.066816
+sensor04,gatewayA,Counter (-),max,180611.0
+sensor04,gatewayA,# Receiving Gateways (-),max,4.0
+sensor04,gatewayA,RSSI (dBm),count,117002.0
+sensor04,gatewayA,SNR (dB),count,112593.0
+sensor04,gatewayA,Spreading Factor (-),count,117002.0
+sensor04,gatewayA,Bandwidth (Hz),count,117002.0
+sensor04,gatewayA,Frequency (Hz),count,117002.0
+sensor04,gatewayA,Airtime (s),count,117002.0
+sensor04,gatewayA,Counter (-),count,117002.0
+sensor04,gatewayA,# Receiving Gateways (-),count,117002.0
+sensor04,gatewayB,RSSI (dBm),mean,-114.0050454086781
+sensor04,gatewayB,SNR (dB),mean,-7.729061553985873
+sensor04,gatewayB,Spreading Factor (-),mean,7.0
+sensor04,gatewayB,Bandwidth (Hz),mean,125000.0
+sensor04,gatewayB,Frequency (Hz),mean,904571644.8032291
+sensor04,gatewayB,Airtime (s),mean,0.0570099858728557
+sensor04,gatewayB,Counter (-),mean,105490.78809283552
+sensor04,gatewayB,# Receiving Gateways (-),mean,2.8405650857719476
+sensor04,gatewayB,RSSI (dBm),std,5.638161349857494
+sensor04,gatewayB,SNR (dB),std,1.1092485522878694
+sensor04,gatewayB,Spreading Factor (-),std,0.0
+sensor04,gatewayB,Bandwidth (Hz),std,0.0
+sensor04,gatewayB,Frequency (Hz),std,439459.28549389495
+sensor04,gatewayB,Airtime (s),std,0.0014267859465154397
+sensor04,gatewayB,Counter (-),std,50433.380309092056
+sensor04,gatewayB,# Receiving Gateways (-),std,0.41293392671258006
+sensor04,gatewayB,RSSI (dBm),min,-122.0
+sensor04,gatewayB,SNR (dB),min,-10.0
+sensor04,gatewayB,Spreading Factor (-),min,7.0
+sensor04,gatewayB,Bandwidth (Hz),min,125000.0
+sensor04,gatewayB,Frequency (Hz),min,903900000.0
+sensor04,gatewayB,Airtime (s),min,0.056576
+sensor04,gatewayB,Counter (-),min,39774.0
+sensor04,gatewayB,# Receiving Gateways (-),min,1.0
+sensor04,gatewayB,RSSI (dBm),max,-89.0
+sensor04,gatewayB,SNR (dB),max,-3.0
+sensor04,gatewayB,Spreading Factor (-),max,7.0
+sensor04,gatewayB,Bandwidth (Hz),max,125000.0
+sensor04,gatewayB,Frequency (Hz),max,905300000.0
+sensor04,gatewayB,Airtime (s),max,0.061696
+sensor04,gatewayB,Counter (-),max,170412.0
+sensor04,gatewayB,# Receiving Gateways (-),max,4.0
+sensor04,gatewayB,RSSI (dBm),count,991.0
+sensor04,gatewayB,SNR (dB),count,991.0
+sensor04,gatewayB,Spreading Factor (-),count,991.0
+sensor04,gatewayB,Bandwidth (Hz),count,991.0
+sensor04,gatewayB,Frequency (Hz),count,991.0
+sensor04,gatewayB,Airtime (s),count,991.0
+sensor04,gatewayB,Counter (-),count,991.0
+sensor04,gatewayB,# Receiving Gateways (-),count,991.0
+sensor04,gatewayC,RSSI (dBm),mean,-107.64819294002173
+sensor04,gatewayC,SNR (dB),mean,-0.8282682389904606
+sensor04,gatewayC,Spreading Factor (-),mean,7.0
+sensor04,gatewayC,Bandwidth (Hz),mean,125000.0
+sensor04,gatewayC,Frequency (Hz),mean,904590983.9800891
+sensor04,gatewayC,Airtime (s),mean,0.05681529049672239
+sensor04,gatewayC,Counter (-),mean,112541.61090370527
+sensor04,gatewayC,# Receiving Gateways (-),mean,2.1957969642794546
+sensor04,gatewayC,RSSI (dBm),std,3.2476287145616825
+sensor04,gatewayC,SNR (dB),std,4.523246891316971
+sensor04,gatewayC,Spreading Factor (-),std,0.0
+sensor04,gatewayC,Bandwidth (Hz),std,0.0
+sensor04,gatewayC,Frequency (Hz),std,456070.4421214425
+sensor04,gatewayC,Airtime (s),std,0.0010811274566794047
+sensor04,gatewayC,Counter (-),std,39860.06739595789
+sensor04,gatewayC,# Receiving Gateways (-),std,0.6145964817886592
+sensor04,gatewayC,RSSI (dBm),min,-127.0
+sensor04,gatewayC,SNR (dB),min,-10.25
+sensor04,gatewayC,Spreading Factor (-),min,7.0
+sensor04,gatewayC,Bandwidth (Hz),min,125000.0
+sensor04,gatewayC,Frequency (Hz),min,903900000.0
+sensor04,gatewayC,Airtime (s),min,0.056576
+sensor04,gatewayC,Counter (-),min,39770.0
+sensor04,gatewayC,# Receiving Gateways (-),min,1.0
+sensor04,gatewayC,RSSI (dBm),max,-91.0
+sensor04,gatewayC,SNR (dB),max,15.0
+sensor04,gatewayC,Spreading Factor (-),max,7.0
+sensor04,gatewayC,Bandwidth (Hz),max,125000.0
+sensor04,gatewayC,Frequency (Hz),max,905300000.0
+sensor04,gatewayC,Airtime (s),max,0.066816
+sensor04,gatewayC,Counter (-),max,180611.0
+sensor04,gatewayC,# Receiving Gateways (-),max,4.0
+sensor04,gatewayC,RSSI (dBm),count,114108.0
+sensor04,gatewayC,SNR (dB),count,96757.0
+sensor04,gatewayC,Spreading Factor (-),count,114108.0
+sensor04,gatewayC,Bandwidth (Hz),count,114108.0
+sensor04,gatewayC,Frequency (Hz),count,114108.0
+sensor04,gatewayC,Airtime (s),count,114108.0
+sensor04,gatewayC,Counter (-),count,114108.0
+sensor04,gatewayC,# Receiving Gateways (-),count,114108.0
+sensor05,gatewayA,RSSI (dBm),mean,-83.35771820841428
+sensor05,gatewayA,SNR (dB),mean,12.830014657753098
+sensor05,gatewayA,Spreading Factor (-),mean,7.0
+sensor05,gatewayA,Bandwidth (Hz),mean,125000.0
+sensor05,gatewayA,Frequency (Hz),mean,904596221.329791
+sensor05,gatewayA,Airtime (s),mean,0.05667503387058379
+sensor05,gatewayA,Counter (-),mean,108046.90374027689
+sensor05,gatewayA,# Receiving Gateways (-),mean,2.3240703058411594
+sensor05,gatewayA,RSSI (dBm),std,9.986842814723563
+sensor05,gatewayA,SNR (dB),std,3.815450595072517
+sensor05,gatewayA,Spreading Factor (-),std,0.0
+sensor05,gatewayA,Bandwidth (Hz),std,0.0
+sensor05,gatewayA,Frequency (Hz),std,458204.5369191651
+sensor05,gatewayA,Airtime (s),std,0.0007054446216902138
+sensor05,gatewayA,Counter (-),std,39767.80160000346
+sensor05,gatewayA,# Receiving Gateways (-),std,0.6265206445437106
+sensor05,gatewayA,RSSI (dBm),min,-120.0
+sensor05,gatewayA,SNR (dB),min,-10.75
+sensor05,gatewayA,Spreading Factor (-),min,7.0
+sensor05,gatewayA,Bandwidth (Hz),min,125000.0
+sensor05,gatewayA,Frequency (Hz),min,903900000.0
+sensor05,gatewayA,Airtime (s),min,0.056576
+sensor05,gatewayA,Counter (-),min,39769.0
+sensor05,gatewayA,# Receiving Gateways (-),min,1.0
+sensor05,gatewayA,RSSI (dBm),max,-32.0
+sensor05,gatewayA,SNR (dB),max,15.0
+sensor05,gatewayA,Spreading Factor (-),max,7.0
+sensor05,gatewayA,Bandwidth (Hz),max,125000.0
+sensor05,gatewayA,Frequency (Hz),max,905300000.0
+sensor05,gatewayA,Airtime (s),max,0.066816
+sensor05,gatewayA,Counter (-),max,180608.0
+sensor05,gatewayA,# Receiving Gateways (-),max,4.0
+sensor05,gatewayA,RSSI (dBm),count,130231.0
+sensor05,gatewayA,SNR (dB),count,128942.0
+sensor05,gatewayA,Spreading Factor (-),count,130231.0
+sensor05,gatewayA,Bandwidth (Hz),count,130231.0
+sensor05,gatewayA,Frequency (Hz),count,130231.0
+sensor05,gatewayA,Airtime (s),count,130231.0
+sensor05,gatewayA,Counter (-),count,130231.0
+sensor05,gatewayA,# Receiving Gateways (-),count,130231.0
+sensor05,gatewayB,RSSI (dBm),mean,-113.8403162055336
+sensor05,gatewayB,SNR (dB),mean,-7.041500399042299
+sensor05,gatewayB,Spreading Factor (-),mean,7.0
+sensor05,gatewayB,Bandwidth (Hz),mean,125000.0
+sensor05,gatewayB,Frequency (Hz),mean,904594703.5573123
+sensor05,gatewayB,Airtime (s),mean,0.05675408695652174
+sensor05,gatewayB,Counter (-),mean,143386.20553359683
+sensor05,gatewayB,# Receiving Gateways (-),mean,2.65296442687747
+sensor05,gatewayB,RSSI (dBm),std,5.604003984601423
+sensor05,gatewayB,SNR (dB),std,1.9148907782668791
+sensor05,gatewayB,Spreading Factor (-),std,0.0
+sensor05,gatewayB,Bandwidth (Hz),std,0.0
+sensor05,gatewayB,Frequency (Hz),std,439769.89257220464
+sensor05,gatewayB,Airtime (s),std,0.0009603462960075214
+sensor05,gatewayB,Counter (-),std,42315.526487134186
+sensor05,gatewayB,# Receiving Gateways (-),std,0.8047777542290209
+sensor05,gatewayB,RSSI (dBm),min,-126.0
+sensor05,gatewayB,SNR (dB),min,-10.0
+sensor05,gatewayB,Spreading Factor (-),min,7.0
+sensor05,gatewayB,Bandwidth (Hz),min,125000.0
+sensor05,gatewayB,Frequency (Hz),min,903900000.0
+sensor05,gatewayB,Airtime (s),min,0.056576
+sensor05,gatewayB,Counter (-),min,39988.0
+sensor05,gatewayB,# Receiving Gateways (-),min,1.0
+sensor05,gatewayB,RSSI (dBm),max,-84.0
+sensor05,gatewayB,SNR (dB),max,1.0
+sensor05,gatewayB,Spreading Factor (-),max,7.0
+sensor05,gatewayB,Bandwidth (Hz),max,125000.0
+sensor05,gatewayB,Frequency (Hz),max,905300000.0
+sensor05,gatewayB,Airtime (s),max,0.066816
+sensor05,gatewayB,Counter (-),max,179929.0
+sensor05,gatewayB,# Receiving Gateways (-),max,4.0
+sensor05,gatewayB,RSSI (dBm),count,1265.0
+sensor05,gatewayB,SNR (dB),count,1253.0
+sensor05,gatewayB,Spreading Factor (-),count,1265.0
+sensor05,gatewayB,Bandwidth (Hz),count,1265.0
+sensor05,gatewayB,Frequency (Hz),count,1265.0
+sensor05,gatewayB,Airtime (s),count,1265.0
+sensor05,gatewayB,Counter (-),count,1265.0
+sensor05,gatewayB,# Receiving Gateways (-),count,1265.0
+sensor05,gatewayC,RSSI (dBm),mean,-107.20073233687496
+sensor05,gatewayC,SNR (dB),mean,0.04309279403503396
+sensor05,gatewayC,Spreading Factor (-),mean,7.0
+sensor05,gatewayC,Bandwidth (Hz),mean,125000.0
+sensor05,gatewayC,Frequency (Hz),mean,904605763.5083567
+sensor05,gatewayC,Airtime (s),mean,0.056677203124866
+sensor05,gatewayC,Counter (-),mean,113580.56218431907
+sensor05,gatewayC,# Receiving Gateways (-),mean,2.414490665706225
+sensor05,gatewayC,RSSI (dBm),std,3.075510182758677
+sensor05,gatewayC,SNR (dB),std,4.632454352673996
+sensor05,gatewayC,Spreading Factor (-),std,0.0
+sensor05,gatewayC,Bandwidth (Hz),std,0.0
+sensor05,gatewayC,Frequency (Hz),std,455397.2848114384
+sensor05,gatewayC,Airtime (s),std,0.0007133172388375563
+sensor05,gatewayC,Counter (-),std,39741.65065660856
+sensor05,gatewayC,# Receiving Gateways (-),std,0.5709121405748595
+sensor05,gatewayC,RSSI (dBm),min,-119.0
+sensor05,gatewayC,SNR (dB),min,-10.0
+sensor05,gatewayC,Spreading Factor (-),min,7.0
+sensor05,gatewayC,Bandwidth (Hz),min,125000.0
+sensor05,gatewayC,Frequency (Hz),min,903900000.0
+sensor05,gatewayC,Airtime (s),min,0.056576
+sensor05,gatewayC,Counter (-),min,39769.0
+sensor05,gatewayC,# Receiving Gateways (-),min,1.0
+sensor05,gatewayC,RSSI (dBm),max,-84.0
+sensor05,gatewayC,SNR (dB),max,15.0
+sensor05,gatewayC,Spreading Factor (-),max,7.0
+sensor05,gatewayC,Bandwidth (Hz),max,125000.0
+sensor05,gatewayC,Frequency (Hz),max,905300000.0
+sensor05,gatewayC,Airtime (s),max,0.066816
+sensor05,gatewayC,Counter (-),max,180608.0
+sensor05,gatewayC,# Receiving Gateways (-),max,4.0
+sensor05,gatewayC,RSSI (dBm),count,116613.0
+sensor05,gatewayC,SNR (dB),count,97905.0
+sensor05,gatewayC,Spreading Factor (-),count,116613.0
+sensor05,gatewayC,Bandwidth (Hz),count,116613.0
+sensor05,gatewayC,Frequency (Hz),count,116613.0
+sensor05,gatewayC,Airtime (s),count,116613.0
+sensor05,gatewayC,Counter (-),count,116613.0
+sensor05,gatewayC,# Receiving Gateways (-),count,116613.0
+sensor06,gatewayA,RSSI (dBm),mean,-78.60812628460887
+sensor06,gatewayA,SNR (dB),mean,13.674400395301987
+sensor06,gatewayA,Spreading Factor (-),mean,7.0
+sensor06,gatewayA,Bandwidth (Hz),mean,125000.0
+sensor06,gatewayA,Frequency (Hz),mean,904599960.7060815
+sensor06,gatewayA,Airtime (s),mean,0.05667574126465964
+sensor06,gatewayA,Counter (-),mean,108049.78878763148
+sensor06,gatewayA,# Receiving Gateways (-),mean,1.9292256075444323
+sensor06,gatewayA,RSSI (dBm),std,9.675387559503527
+sensor06,gatewayA,SNR (dB),std,3.024931585240218
+sensor06,gatewayA,Spreading Factor (-),std,0.0
+sensor06,gatewayA,Bandwidth (Hz),std,0.0
+sensor06,gatewayA,Frequency (Hz),std,457655.3765549615
+sensor06,gatewayA,Airtime (s),std,0.0007076233030113995
+sensor06,gatewayA,Counter (-),std,39781.765432355576
+sensor06,gatewayA,# Receiving Gateways (-),std,0.8647587309048964
+sensor06,gatewayA,RSSI (dBm),min,-115.0
+sensor06,gatewayA,SNR (dB),min,-9.0
+sensor06,gatewayA,Spreading Factor (-),min,7.0
+sensor06,gatewayA,Bandwidth (Hz),min,125000.0
+sensor06,gatewayA,Frequency (Hz),min,903900000.0
+sensor06,gatewayA,Airtime (s),min,0.056576
+sensor06,gatewayA,Counter (-),min,39772.0
+sensor06,gatewayA,# Receiving Gateways (-),min,1.0
+sensor06,gatewayA,RSSI (dBm),max,-32.0
+sensor06,gatewayA,SNR (dB),max,15.0
+sensor06,gatewayA,Spreading Factor (-),max,7.0
+sensor06,gatewayA,Bandwidth (Hz),max,125000.0
+sensor06,gatewayA,Frequency (Hz),max,905300000.0
+sensor06,gatewayA,Airtime (s),max,0.061696
+sensor06,gatewayA,Counter (-),max,180612.0
+sensor06,gatewayA,# Receiving Gateways (-),max,4.0
+sensor06,gatewayA,RSSI (dBm),count,132336.0
+sensor06,gatewayA,SNR (dB),count,131545.0
+sensor06,gatewayA,Spreading Factor (-),count,132336.0
+sensor06,gatewayA,Bandwidth (Hz),count,132336.0
+sensor06,gatewayA,Frequency (Hz),count,132336.0
+sensor06,gatewayA,Airtime (s),count,132336.0
+sensor06,gatewayA,Counter (-),count,132336.0
+sensor06,gatewayA,# Receiving Gateways (-),count,132336.0
+sensor06,gatewayB,RSSI (dBm),mean,-115.87043189368771
+sensor06,gatewayB,SNR (dB),mean,-7.877076411960133
+sensor06,gatewayB,Spreading Factor (-),mean,7.0
+sensor06,gatewayB,Bandwidth (Hz),mean,125000.0
+sensor06,gatewayB,Frequency (Hz),mean,904693355.4817276
+sensor06,gatewayB,Airtime (s),mean,0.05666104983388704
+sensor06,gatewayB,Counter (-),mean,96568.21594684385
+sensor06,gatewayB,# Receiving Gateways (-),mean,3.664451827242525
+sensor06,gatewayB,RSSI (dBm),std,3.6064510920727506
+sensor06,gatewayB,SNR (dB),std,1.1211256653359976
+sensor06,gatewayB,Spreading Factor (-),std,0.0
+sensor06,gatewayB,Bandwidth (Hz),std,0.0
+sensor06,gatewayB,Frequency (Hz),std,286511.8436380083
+sensor06,gatewayB,Airtime (s),std,0.000655476224467096
+sensor06,gatewayB,Counter (-),std,24298.555593763416
+sensor06,gatewayB,# Receiving Gateways (-),std,0.5571045220647409
+sensor06,gatewayB,RSSI (dBm),min,-122.0
+sensor06,gatewayB,SNR (dB),min,-10.0
+sensor06,gatewayB,Spreading Factor (-),min,7.0
+sensor06,gatewayB,Bandwidth (Hz),min,125000.0
+sensor06,gatewayB,Frequency (Hz),min,903900000.0
+sensor06,gatewayB,Airtime (s),min,0.056576
+sensor06,gatewayB,Counter (-),min,58758.0
+sensor06,gatewayB,# Receiving Gateways (-),min,2.0
+sensor06,gatewayB,RSSI (dBm),max,-90.0
+sensor06,gatewayB,SNR (dB),max,-4.5
+sensor06,gatewayB,Spreading Factor (-),max,7.0
+sensor06,gatewayB,Bandwidth (Hz),max,125000.0
+sensor06,gatewayB,Frequency (Hz),max,905300000.0
+sensor06,gatewayB,Airtime (s),max,0.061696
+sensor06,gatewayB,Counter (-),max,175838.0
+sensor06,gatewayB,# Receiving Gateways (-),max,4.0
+sensor06,gatewayB,RSSI (dBm),count,301.0
+sensor06,gatewayB,SNR (dB),count,301.0
+sensor06,gatewayB,Spreading Factor (-),count,301.0
+sensor06,gatewayB,Bandwidth (Hz),count,301.0
+sensor06,gatewayB,Frequency (Hz),count,301.0
+sensor06,gatewayB,Airtime (s),count,301.0
+sensor06,gatewayB,Counter (-),count,301.0
+sensor06,gatewayB,# Receiving Gateways (-),count,301.0
+sensor06,gatewayC,RSSI (dBm),mean,-108.45010366898043
+sensor06,gatewayC,SNR (dB),mean,-1.2203261351871024
+sensor06,gatewayC,Spreading Factor (-),mean,7.0
+sensor06,gatewayC,Bandwidth (Hz),mean,125000.0
+sensor06,gatewayC,Frequency (Hz),mean,904576215.3739166
+sensor06,gatewayC,Airtime (s),mean,0.05667431064635354
+sensor06,gatewayC,Counter (-),mean,97132.24710563934
+sensor06,gatewayC,# Receiving Gateways (-),mean,2.5279004777787795
+sensor06,gatewayC,RSSI (dBm),std,2.8702471038949673
+sensor06,gatewayC,SNR (dB),std,4.898591737765833
+sensor06,gatewayC,Spreading Factor (-),std,0.0
+sensor06,gatewayC,Bandwidth (Hz),std,0.0
+sensor06,gatewayC,Frequency (Hz),std,459448.73283969925
+sensor06,gatewayC,Airtime (s),std,0.0007026321114026151
+sensor06,gatewayC,Counter (-),std,37208.335291861484
+sensor06,gatewayC,# Receiving Gateways (-),std,0.5950244830374107
+sensor06,gatewayC,RSSI (dBm),min,-118.0
+sensor06,gatewayC,SNR (dB),min,-10.5
+sensor06,gatewayC,Spreading Factor (-),min,7.0
+sensor06,gatewayC,Bandwidth (Hz),min,125000.0
+sensor06,gatewayC,Frequency (Hz),min,903900000.0
+sensor06,gatewayC,Airtime (s),min,0.056576
+sensor06,gatewayC,Counter (-),min,39772.0
+sensor06,gatewayC,# Receiving Gateways (-),min,1.0
+sensor06,gatewayC,RSSI (dBm),max,-94.0
+sensor06,gatewayC,SNR (dB),max,11.0
+sensor06,gatewayC,Spreading Factor (-),max,7.0
+sensor06,gatewayC,Bandwidth (Hz),max,125000.0
+sensor06,gatewayC,Frequency (Hz),max,905300000.0
+sensor06,gatewayC,Airtime (s),max,0.061696
+sensor06,gatewayC,Counter (-),max,180612.0
+sensor06,gatewayC,# Receiving Gateways (-),max,4.0
+sensor06,gatewayC,RSSI (dBm),count,77651.0
+sensor06,gatewayC,SNR (dB),count,67610.0
+sensor06,gatewayC,Spreading Factor (-),count,77651.0
+sensor06,gatewayC,Bandwidth (Hz),count,77651.0
+sensor06,gatewayC,Frequency (Hz),count,77651.0
+sensor06,gatewayC,Airtime (s),count,77651.0
+sensor06,gatewayC,Counter (-),count,77651.0
+sensor06,gatewayC,# Receiving Gateways (-),count,77651.0
+sensor07,gatewayA,RSSI (dBm),mean,-89.04291707520936
+sensor07,gatewayA,SNR (dB),mean,10.860079651831171
+sensor07,gatewayA,Spreading Factor (-),mean,7.0
+sensor07,gatewayA,Bandwidth (Hz),mean,125000.0
+sensor07,gatewayA,Frequency (Hz),mean,904601506.116085
+sensor07,gatewayA,Airtime (s),mean,0.056693151077749
+sensor07,gatewayA,Counter (-),mean,107224.61208268369
+sensor07,gatewayA,# Receiving Gateways (-),mean,2.686223136643467
+sensor07,gatewayA,RSSI (dBm),std,9.890200020332305
+sensor07,gatewayA,SNR (dB),std,5.064237217348567
+sensor07,gatewayA,Spreading Factor (-),std,0.0
+sensor07,gatewayA,Bandwidth (Hz),std,0.0
+sensor07,gatewayA,Frequency (Hz),std,458863.3540479461
+sensor07,gatewayA,Airtime (s),std,0.0007655676674456276
+sensor07,gatewayA,Counter (-),std,39347.93317801092
+sensor07,gatewayA,# Receiving Gateways (-),std,0.7933799009781783
+sensor07,gatewayA,RSSI (dBm),min,-116.0
+sensor07,gatewayA,SNR (dB),min,-10.25
+sensor07,gatewayA,Spreading Factor (-),min,7.0
+sensor07,gatewayA,Bandwidth (Hz),min,125000.0
+sensor07,gatewayA,Frequency (Hz),min,903900000.0
+sensor07,gatewayA,Airtime (s),min,0.056576
+sensor07,gatewayA,Counter (-),min,39771.0
+sensor07,gatewayA,# Receiving Gateways (-),min,1.0
+sensor07,gatewayA,RSSI (dBm),max,-41.0
+sensor07,gatewayA,SNR (dB),max,15.0
+sensor07,gatewayA,Spreading Factor (-),max,7.0
+sensor07,gatewayA,Bandwidth (Hz),max,125000.0
+sensor07,gatewayA,Frequency (Hz),max,905300000.0
+sensor07,gatewayA,Airtime (s),max,0.061696
+sensor07,gatewayA,Counter (-),max,180609.0
+sensor07,gatewayA,# Receiving Gateways (-),max,4.0
+sensor07,gatewayA,RSSI (dBm),count,124426.0
+sensor07,gatewayA,SNR (dB),count,121780.0
+sensor07,gatewayA,Spreading Factor (-),count,124426.0
+sensor07,gatewayA,Bandwidth (Hz),count,124426.0
+sensor07,gatewayA,Frequency (Hz),count,124426.0
+sensor07,gatewayA,Airtime (s),count,124426.0
+sensor07,gatewayA,Counter (-),count,124426.0
+sensor07,gatewayA,# Receiving Gateways (-),count,124426.0
+sensor07,gatewayB,RSSI (dBm),mean,-110.44621876551382
+sensor07,gatewayB,SNR (dB),mean,-5.3900316455696204
+sensor07,gatewayB,Spreading Factor (-),mean,7.0
+sensor07,gatewayB,Bandwidth (Hz),mean,125000.0
+sensor07,gatewayB,Frequency (Hz),mean,904577544.266093
+sensor07,gatewayB,Airtime (s),mean,0.05668727364995311
+sensor07,gatewayB,Counter (-),mean,93958.54638976225
+sensor07,gatewayB,# Receiving Gateways (-),mean,3.469220585801754
+sensor07,gatewayB,RSSI (dBm),std,7.663557318971813
+sensor07,gatewayB,SNR (dB),std,2.3629645053089394
+sensor07,gatewayB,Spreading Factor (-),std,0.0
+sensor07,gatewayB,Bandwidth (Hz),std,0.0
+sensor07,gatewayB,Frequency (Hz),std,449799.3515965963
+sensor07,gatewayB,Airtime (s),std,0.0007465618758642149
+sensor07,gatewayB,Counter (-),std,34496.312814638644
+sensor07,gatewayB,# Receiving Gateways (-),std,0.6438943578836293
+sensor07,gatewayB,RSSI (dBm),min,-124.0
+sensor07,gatewayB,SNR (dB),min,-10.25
+sensor07,gatewayB,Spreading Factor (-),min,7.0
+sensor07,gatewayB,Bandwidth (Hz),min,125000.0
+sensor07,gatewayB,Frequency (Hz),min,903900000.0
+sensor07,gatewayB,Airtime (s),min,0.056576
+sensor07,gatewayB,Counter (-),min,39771.0
+sensor07,gatewayB,# Receiving Gateways (-),min,1.0
+sensor07,gatewayB,RSSI (dBm),max,-64.0
+sensor07,gatewayB,SNR (dB),max,5.0
+sensor07,gatewayB,Spreading Factor (-),max,7.0
+sensor07,gatewayB,Bandwidth (Hz),max,125000.0
+sensor07,gatewayB,Frequency (Hz),max,905300000.0
+sensor07,gatewayB,Airtime (s),max,0.061696
+sensor07,gatewayB,Counter (-),max,180319.0
+sensor07,gatewayB,# Receiving Gateways (-),max,4.0
+sensor07,gatewayB,RSSI (dBm),count,36258.0
+sensor07,gatewayB,SNR (dB),count,34760.0
+sensor07,gatewayB,Spreading Factor (-),count,36258.0
+sensor07,gatewayB,Bandwidth (Hz),count,36258.0
+sensor07,gatewayB,Frequency (Hz),count,36258.0
+sensor07,gatewayB,Airtime (s),count,36258.0
+sensor07,gatewayB,Counter (-),count,36258.0
+sensor07,gatewayB,# Receiving Gateways (-),count,36258.0
+sensor07,gatewayC,RSSI (dBm),mean,-105.84368747375441
+sensor07,gatewayC,SNR (dB),mean,2.1864147667220295
+sensor07,gatewayC,Spreading Factor (-),mean,7.0
+sensor07,gatewayC,Bandwidth (Hz),mean,125000.0
+sensor07,gatewayC,Frequency (Hz),mean,904598199.2441272
+sensor07,gatewayC,Airtime (s),mean,0.05669568546468064
+sensor07,gatewayC,Counter (-),mean,112879.15226967698
+sensor07,gatewayC,# Receiving Gateways (-),mean,2.6697873181335376
+sensor07,gatewayC,RSSI (dBm),std,3.489022849026104
+sensor07,gatewayC,SNR (dB),std,4.912302736351364
+sensor07,gatewayC,Spreading Factor (-),std,0.0
+sensor07,gatewayC,Bandwidth (Hz),std,0.0
+sensor07,gatewayC,Frequency (Hz),std,454903.38958569296
+sensor07,gatewayC,Airtime (s),std,0.0007736083611593731
+sensor07,gatewayC,Counter (-),std,38669.421510541026
+sensor07,gatewayC,# Receiving Gateways (-),std,0.8083164749860292
+sensor07,gatewayC,RSSI (dBm),min,-118.0
+sensor07,gatewayC,SNR (dB),min,-10.0
+sensor07,gatewayC,Spreading Factor (-),min,7.0
+sensor07,gatewayC,Bandwidth (Hz),min,125000.0
+sensor07,gatewayC,Frequency (Hz),min,903900000.0
+sensor07,gatewayC,Airtime (s),min,0.056576
+sensor07,gatewayC,Counter (-),min,39771.0
+sensor07,gatewayC,# Receiving Gateways (-),min,1.0
+sensor07,gatewayC,RSSI (dBm),max,-88.0
+sensor07,gatewayC,SNR (dB),max,15.0
+sensor07,gatewayC,Spreading Factor (-),max,7.0
+sensor07,gatewayC,Bandwidth (Hz),max,125000.0
+sensor07,gatewayC,Frequency (Hz),max,905300000.0
+sensor07,gatewayC,Airtime (s),max,0.061696
+sensor07,gatewayC,Counter (-),max,180609.0
+sensor07,gatewayC,# Receiving Gateways (-),max,4.0
+sensor07,gatewayC,RSSI (dBm),count,121449.0
+sensor07,gatewayC,SNR (dB),count,105968.0
+sensor07,gatewayC,Spreading Factor (-),count,121449.0
+sensor07,gatewayC,Bandwidth (Hz),count,121449.0
+sensor07,gatewayC,Frequency (Hz),count,121449.0
+sensor07,gatewayC,Airtime (s),count,121449.0
+sensor07,gatewayC,Counter (-),count,121449.0
+sensor07,gatewayC,# Receiving Gateways (-),count,121449.0
+sensor08,gatewayA,RSSI (dBm),mean,-95.10550633716248
+sensor08,gatewayA,SNR (dB),mean,7.890902131199773
+sensor08,gatewayA,Spreading Factor (-),mean,7.0
+sensor08,gatewayA,Bandwidth (Hz),mean,125000.0
+sensor08,gatewayA,Frequency (Hz),mean,904584722.1397991
+sensor08,gatewayA,Airtime (s),mean,0.057028424738247624
+sensor08,gatewayA,Counter (-),mean,107519.37279470985
+sensor08,gatewayA,# Receiving Gateways (-),mean,1.6178542664575473
+sensor08,gatewayA,RSSI (dBm),std,9.39893322974197
+sensor08,gatewayA,SNR (dB),std,5.583272851923848
+sensor08,gatewayA,Spreading Factor (-),std,0.0
+sensor08,gatewayA,Bandwidth (Hz),std,0.0
+sensor08,gatewayA,Frequency (Hz),std,456570.9218715582
+sensor08,gatewayA,Airtime (s),std,0.0014542543845503524
+sensor08,gatewayA,Counter (-),std,40012.408887683436
+sensor08,gatewayA,# Receiving Gateways (-),std,0.4991676177935104
+sensor08,gatewayA,RSSI (dBm),min,-120.0
+sensor08,gatewayA,SNR (dB),min,-10.25
+sensor08,gatewayA,Spreading Factor (-),min,7.0
+sensor08,gatewayA,Bandwidth (Hz),min,125000.0
+sensor08,gatewayA,Frequency (Hz),min,903900000.0
+sensor08,gatewayA,Airtime (s),min,0.056576
+sensor08,gatewayA,Counter (-),min,39760.0
+sensor08,gatewayA,# Receiving Gateways (-),min,1.0
+sensor08,gatewayA,RSSI (dBm),max,-41.0
+sensor08,gatewayA,SNR (dB),max,15.0
+sensor08,gatewayA,Spreading Factor (-),max,7.0
+sensor08,gatewayA,Bandwidth (Hz),max,125000.0
+sensor08,gatewayA,Frequency (Hz),max,905300000.0
+sensor08,gatewayA,Airtime (s),max,0.066816
+sensor08,gatewayA,Counter (-),max,180598.0
+sensor08,gatewayA,# Receiving Gateways (-),max,3.0
+sensor08,gatewayA,RSSI (dBm),count,117955.0
+sensor08,gatewayA,SNR (dB),count,112988.0
+sensor08,gatewayA,Spreading Factor (-),count,117955.0
+sensor08,gatewayA,Bandwidth (Hz),count,117955.0
+sensor08,gatewayA,Frequency (Hz),count,117955.0
+sensor08,gatewayA,Airtime (s),count,117955.0
+sensor08,gatewayA,Counter (-),count,117955.0
+sensor08,gatewayA,# Receiving Gateways (-),count,117955.0
+sensor08,gatewayB,RSSI (dBm),mean,-108.35794188803986
+sensor08,gatewayB,SNR (dB),mean,-2.052419864369656
+sensor08,gatewayB,Spreading Factor (-),mean,7.0
+sensor08,gatewayB,Bandwidth (Hz),mean,125000.0
+sensor08,gatewayB,Frequency (Hz),mean,904597786.6673055
+sensor08,gatewayB,Airtime (s),mean,0.05702058284427622
+sensor08,gatewayB,Counter (-),mean,106317.72945361343
+sensor08,gatewayB,# Receiving Gateways (-),mean,1.8691043667808465
+sensor08,gatewayB,RSSI (dBm),std,8.1222945567899
+sensor08,gatewayB,SNR (dB),std,4.009148909350181
+sensor08,gatewayB,Spreading Factor (-),std,0.0
+sensor08,gatewayB,Bandwidth (Hz),std,0.0
+sensor08,gatewayB,Frequency (Hz),std,456497.3349586841
+sensor08,gatewayB,Airtime (s),std,0.0014419650118345083
+sensor08,gatewayB,Counter (-),std,40366.11721596049
+sensor08,gatewayB,# Receiving Gateways (-),std,0.36360416525072164
+sensor08,gatewayB,RSSI (dBm),min,-126.0
+sensor08,gatewayB,SNR (dB),min,-10.75
+sensor08,gatewayB,Spreading Factor (-),min,7.0
+sensor08,gatewayB,Bandwidth (Hz),min,125000.0
+sensor08,gatewayB,Frequency (Hz),min,903900000.0
+sensor08,gatewayB,Airtime (s),min,0.056576
+sensor08,gatewayB,Counter (-),min,39760.0
+sensor08,gatewayB,# Receiving Gateways (-),min,1.0
+sensor08,gatewayB,RSSI (dBm),max,-61.0
+sensor08,gatewayB,SNR (dB),max,12.0
+sensor08,gatewayB,Spreading Factor (-),max,7.0
+sensor08,gatewayB,Bandwidth (Hz),max,125000.0
+sensor08,gatewayB,Frequency (Hz),max,905300000.0
+sensor08,gatewayB,Airtime (s),max,0.066816
+sensor08,gatewayB,Counter (-),max,180598.0
+sensor08,gatewayB,# Receiving Gateways (-),max,3.0
+sensor08,gatewayB,RSSI (dBm),count,83494.0
+sensor08,gatewayB,SNR (dB),count,71223.0
+sensor08,gatewayB,Spreading Factor (-),count,83494.0
+sensor08,gatewayB,Bandwidth (Hz),count,83494.0
+sensor08,gatewayB,Frequency (Hz),count,83494.0
+sensor08,gatewayB,Airtime (s),count,83494.0
+sensor08,gatewayB,Counter (-),count,83494.0
+sensor08,gatewayB,# Receiving Gateways (-),count,83494.0
+sensor08,gatewayC,RSSI (dBm),mean,-113.5
+sensor08,gatewayC,SNR (dB),mean,-8.5
+sensor08,gatewayC,Spreading Factor (-),mean,7.0
+sensor08,gatewayC,Bandwidth (Hz),mean,125000.0
+sensor08,gatewayC,Frequency (Hz),mean,904716666.6666666
+sensor08,gatewayC,Airtime (s),mean,0.05678933333333333
+sensor08,gatewayC,Counter (-),mean,59751.458333333336
+sensor08,gatewayC,# Receiving Gateways (-),mean,2.625
+sensor08,gatewayC,RSSI (dBm),std,1.7693034738587656
+sensor08,gatewayC,SNR (dB),std,0.8242255917447338
+sensor08,gatewayC,Spreading Factor (-),std,0.0
+sensor08,gatewayC,Bandwidth (Hz),std,0.0
+sensor08,gatewayC,Frequency (Hz),std,416681.15916825074
+sensor08,gatewayC,Airtime (s),std,0.001045115623587489
+sensor08,gatewayC,Counter (-),std,30506.648143555693
+sensor08,gatewayC,# Receiving Gateways (-),std,0.5757792451369143
+sensor08,gatewayC,RSSI (dBm),min,-117.0
+sensor08,gatewayC,SNR (dB),min,-9.75
+sensor08,gatewayC,Spreading Factor (-),min,7.0
+sensor08,gatewayC,Bandwidth (Hz),min,125000.0
+sensor08,gatewayC,Frequency (Hz),min,903900000.0
+sensor08,gatewayC,Airtime (s),min,0.056576
+sensor08,gatewayC,Counter (-),min,42325.0
+sensor08,gatewayC,# Receiving Gateways (-),min,1.0
+sensor08,gatewayC,RSSI (dBm),max,-110.0
+sensor08,gatewayC,SNR (dB),max,-6.75
+sensor08,gatewayC,Spreading Factor (-),max,7.0
+sensor08,gatewayC,Bandwidth (Hz),max,125000.0
+sensor08,gatewayC,Frequency (Hz),max,905300000.0
+sensor08,gatewayC,Airtime (s),max,0.061696
+sensor08,gatewayC,Counter (-),max,154002.0
+sensor08,gatewayC,# Receiving Gateways (-),max,3.0
+sensor08,gatewayC,RSSI (dBm),count,24.0
+sensor08,gatewayC,SNR (dB),count,24.0
+sensor08,gatewayC,Spreading Factor (-),count,24.0
+sensor08,gatewayC,Bandwidth (Hz),count,24.0
+sensor08,gatewayC,Frequency (Hz),count,24.0
+sensor08,gatewayC,Airtime (s),count,24.0
+sensor08,gatewayC,Counter (-),count,24.0
+sensor08,gatewayC,# Receiving Gateways (-),count,24.0
+sensor09,gatewayA,RSSI (dBm),mean,-94.96429567185476
+sensor09,gatewayA,SNR (dB),mean,8.028547238067546
+sensor09,gatewayA,Spreading Factor (-),mean,7.00004920210585
+sensor09,gatewayA,Bandwidth (Hz),mean,125000.0
+sensor09,gatewayA,Frequency (Hz),mean,904587038.5252489
+sensor09,gatewayA,Airtime (s),mean,0.05706414157085923
+sensor09,gatewayA,Counter (-),mean,102361.05562298067
+sensor09,gatewayA,# Receiving Gateways (-),mean,1.3635379594246633
+sensor09,gatewayA,RSSI (dBm),std,9.680917156112805
+sensor09,gatewayA,SNR (dB),std,5.5675993015619305
+sensor09,gatewayA,Spreading Factor (-),std,0.008099439789489286
+sensor09,gatewayA,Bandwidth (Hz),std,0.0
+sensor09,gatewayA,Frequency (Hz),std,455644.3081628282
+sensor09,gatewayA,Airtime (s),std,0.0015821101642109839
+sensor09,gatewayA,Counter (-),std,41767.133188753796
+sensor09,gatewayA,# Receiving Gateways (-),std,0.5229227039962177
+sensor09,gatewayA,RSSI (dBm),min,-120.0
+sensor09,gatewayA,SNR (dB),min,-9.5
+sensor09,gatewayA,Spreading Factor (-),min,7.0
+sensor09,gatewayA,Bandwidth (Hz),min,125000.0
+sensor09,gatewayA,Frequency (Hz),min,903900000.0
+sensor09,gatewayA,Airtime (s),min,0.056576
+sensor09,gatewayA,Counter (-),min,906.0
+sensor09,gatewayA,# Receiving Gateways (-),min,1.0
+sensor09,gatewayA,RSSI (dBm),max,-44.0
+sensor09,gatewayA,SNR (dB),max,15.0
+sensor09,gatewayA,Spreading Factor (-),max,9.0
+sensor09,gatewayA,Bandwidth (Hz),max,125000.0
+sensor09,gatewayA,Frequency (Hz),max,905300000.0
+sensor09,gatewayA,Airtime (s),max,0.205824
+sensor09,gatewayA,Counter (-),max,172635.0
+sensor09,gatewayA,# Receiving Gateways (-),max,4.0
+sensor09,gatewayA,RSSI (dBm),count,121946.0
+sensor09,gatewayA,SNR (dB),count,116929.0
+sensor09,gatewayA,Spreading Factor (-),count,121946.0
+sensor09,gatewayA,Bandwidth (Hz),count,121946.0
+sensor09,gatewayA,Frequency (Hz),count,121946.0
+sensor09,gatewayA,Airtime (s),count,121946.0
+sensor09,gatewayA,Counter (-),count,121946.0
+sensor09,gatewayA,# Receiving Gateways (-),count,121946.0
+sensor09,gatewayB,RSSI (dBm),mean,-110.42728578481979
+sensor09,gatewayB,SNR (dB),mean,-4.784468225463607
+sensor09,gatewayB,Spreading Factor (-),mean,7.0392073252839
+sensor09,gatewayB,Bandwidth (Hz),mean,125000.0
+sensor09,gatewayB,Frequency (Hz),mean,904644723.7308676
+sensor09,gatewayB,Airtime (s),mean,0.05902784433771713
+sensor09,gatewayB,Counter (-),mean,96954.90524709367
+sensor09,gatewayB,# Receiving Gateways (-),mean,1.9464518156111137
+sensor09,gatewayB,RSSI (dBm),std,7.604693285373383
+sensor09,gatewayB,SNR (dB),std,2.9878834080072103
+sensor09,gatewayB,Spreading Factor (-),std,0.21263080451433572
+sensor09,gatewayB,Bandwidth (Hz),std,0.0
+sensor09,gatewayB,Frequency (Hz),std,440374.7266634418
+sensor09,gatewayB,Airtime (s),std,0.011384092453318843
+sensor09,gatewayB,Counter (-),std,47217.07583572876
+sensor09,gatewayB,# Receiving Gateways (-),std,0.4073696077922195
+sensor09,gatewayB,RSSI (dBm),min,-124.0
+sensor09,gatewayB,SNR (dB),min,-15.0
+sensor09,gatewayB,Spreading Factor (-),min,7.0
+sensor09,gatewayB,Bandwidth (Hz),min,125000.0
+sensor09,gatewayB,Frequency (Hz),min,903900000.0
+sensor09,gatewayB,Airtime (s),min,0.056576
+sensor09,gatewayB,Counter (-),min,2.0
+sensor09,gatewayB,# Receiving Gateways (-),min,1.0
+sensor09,gatewayB,RSSI (dBm),max,-63.0
+sensor09,gatewayB,SNR (dB),max,8.0
+sensor09,gatewayB,Spreading Factor (-),max,9.0
+sensor09,gatewayB,Bandwidth (Hz),max,125000.0
+sensor09,gatewayB,Frequency (Hz),max,905300000.0
+sensor09,gatewayB,Airtime (s),max,0.205824
+sensor09,gatewayB,Counter (-),max,172834.0
+sensor09,gatewayB,# Receiving Gateways (-),max,4.0
+sensor09,gatewayB,RSSI (dBm),count,44558.0
+sensor09,gatewayB,SNR (dB),count,40929.0
+sensor09,gatewayB,Spreading Factor (-),count,44558.0
+sensor09,gatewayB,Bandwidth (Hz),count,44558.0
+sensor09,gatewayB,Frequency (Hz),count,44558.0
+sensor09,gatewayB,Airtime (s),count,44558.0
+sensor09,gatewayB,Counter (-),count,44558.0
+sensor09,gatewayB,# Receiving Gateways (-),count,44558.0
+sensor09,gatewayC,RSSI (dBm),mean,-112.62841530054645
+sensor09,gatewayC,SNR (dB),mean,-8.8224043715847
+sensor09,gatewayC,Spreading Factor (-),mean,7.1530054644808745
+sensor09,gatewayC,Bandwidth (Hz),mean,125000.0
+sensor09,gatewayC,Frequency (Hz),mean,904385792.3497268
+sensor09,gatewayC,Airtime (s),mean,0.06502749726775955
+sensor09,gatewayC,Counter (-),mean,84731.38524590163
+sensor09,gatewayC,# Receiving Gateways (-),mean,2.4918032786885247
+sensor09,gatewayC,RSSI (dBm),std,2.0268502326045423
+sensor09,gatewayC,SNR (dB),std,1.459457850318929
+sensor09,gatewayC,Spreading Factor (-),std,0.41025115591422984
+sensor09,gatewayC,Bandwidth (Hz),std,0.0
+sensor09,gatewayC,Frequency (Hz),std,446557.978314247
+sensor09,gatewayC,Airtime (s),std,0.022967336230674835
+sensor09,gatewayC,Counter (-),std,52718.40600284986
+sensor09,gatewayC,# Receiving Gateways (-),std,0.6933646569418361
+sensor09,gatewayC,RSSI (dBm),min,-118.0
+sensor09,gatewayC,SNR (dB),min,-15.0
+sensor09,gatewayC,Spreading Factor (-),min,7.0
+sensor09,gatewayC,Bandwidth (Hz),min,125000.0
+sensor09,gatewayC,Frequency (Hz),min,903900000.0
+sensor09,gatewayC,Airtime (s),min,0.056576
+sensor09,gatewayC,Counter (-),min,1661.0
+sensor09,gatewayC,# Receiving Gateways (-),min,1.0
+sensor09,gatewayC,RSSI (dBm),max,-107.0
+sensor09,gatewayC,SNR (dB),max,-4.0
+sensor09,gatewayC,Spreading Factor (-),max,9.0
+sensor09,gatewayC,Bandwidth (Hz),max,125000.0
+sensor09,gatewayC,Frequency (Hz),max,905300000.0
+sensor09,gatewayC,Airtime (s),max,0.205824
+sensor09,gatewayC,Counter (-),max,168444.0
+sensor09,gatewayC,# Receiving Gateways (-),max,4.0
+sensor09,gatewayC,RSSI (dBm),count,366.0
+sensor09,gatewayC,SNR (dB),count,366.0
+sensor09,gatewayC,Spreading Factor (-),count,366.0
+sensor09,gatewayC,Bandwidth (Hz),count,366.0
+sensor09,gatewayC,Frequency (Hz),count,366.0
+sensor09,gatewayC,Airtime (s),count,366.0
+sensor09,gatewayC,Counter (-),count,366.0
+sensor09,gatewayC,# Receiving Gateways (-),count,366.0
+sensor10,gatewayA,RSSI (dBm),mean,-92.10028248587571
+sensor10,gatewayA,SNR (dB),mean,10.324156626506024
+sensor10,gatewayA,Spreading Factor (-),mean,7.0
+sensor10,gatewayA,Bandwidth (Hz),mean,125000.0
+sensor10,gatewayA,Frequency (Hz),mean,904600235.4048964
+sensor10,gatewayA,Airtime (s),mean,0.056676037664783435
+sensor10,gatewayA,Counter (-),mean,179179.64689265538
+sensor10,gatewayA,# Receiving Gateways (-),mean,2.032250470809793
+sensor10,gatewayA,RSSI (dBm),std,8.04594880212683
+sensor10,gatewayA,SNR (dB),std,4.9826431881161435
+sensor10,gatewayA,Spreading Factor (-),std,0.0
+sensor10,gatewayA,Bandwidth (Hz),std,0.0
+sensor10,gatewayA,Frequency (Hz),std,455673.43296749925
+sensor10,gatewayA,Airtime (s),std,0.0007087337680906255
+sensor10,gatewayA,Counter (-),std,1327.5303046474066
+sensor10,gatewayA,# Receiving Gateways (-),std,0.3017029156001385
+sensor10,gatewayA,RSSI (dBm),min,-115.0
+sensor10,gatewayA,SNR (dB),min,-9.0
+sensor10,gatewayA,Spreading Factor (-),min,7.0
+sensor10,gatewayA,Bandwidth (Hz),min,125000.0
+sensor10,gatewayA,Frequency (Hz),min,903900000.0
+sensor10,gatewayA,Airtime (s),min,0.056576
+sensor10,gatewayA,Counter (-),min,176754.0
+sensor10,gatewayA,# Receiving Gateways (-),min,1.0
+sensor10,gatewayA,RSSI (dBm),max,-58.0
+sensor10,gatewayA,SNR (dB),max,15.0
+sensor10,gatewayA,Spreading Factor (-),max,7.0
+sensor10,gatewayA,Bandwidth (Hz),max,125000.0
+sensor10,gatewayA,Frequency (Hz),max,905300000.0
+sensor10,gatewayA,Airtime (s),max,0.061696
+sensor10,gatewayA,Counter (-),max,181508.0
+sensor10,gatewayA,# Receiving Gateways (-),max,4.0
+sensor10,gatewayA,RSSI (dBm),count,4248.0
+sensor10,gatewayA,SNR (dB),count,4150.0
+sensor10,gatewayA,Spreading Factor (-),count,4248.0
+sensor10,gatewayA,Bandwidth (Hz),count,4248.0
+sensor10,gatewayA,Frequency (Hz),count,4248.0
+sensor10,gatewayA,Airtime (s),count,4248.0
+sensor10,gatewayA,Counter (-),count,4248.0
+sensor10,gatewayA,# Receiving Gateways (-),count,4248.0
+sensor10,gatewayB,RSSI (dBm),mean,-113.35051546391753
+sensor10,gatewayB,SNR (dB),mean,-6.689119170984456
+sensor10,gatewayB,Spreading Factor (-),mean,7.0
+sensor10,gatewayB,Bandwidth (Hz),mean,125000.0
+sensor10,gatewayB,Frequency (Hz),mean,904548453.6082474
+sensor10,gatewayB,Airtime (s),mean,0.05676074226804123
+sensor10,gatewayB,Counter (-),mean,177317.36082474227
+sensor10,gatewayB,# Receiving Gateways (-),mean,2.479381443298969
+sensor10,gatewayB,RSSI (dBm),std,4.2415200059529985
+sensor10,gatewayB,SNR (dB),std,1.9829640984981656
+sensor10,gatewayB,Spreading Factor (-),std,0.0
+sensor10,gatewayB,Bandwidth (Hz),std,0.0
+sensor10,gatewayB,Frequency (Hz),std,499868.04519142193
+sensor10,gatewayB,Airtime (s),std,0.0009573269053444509
+sensor10,gatewayB,Counter (-),std,1467.7430150575044
+sensor10,gatewayB,# Receiving Gateways (-),std,0.5686887279445324
+sensor10,gatewayB,RSSI (dBm),min,-122.0
+sensor10,gatewayB,SNR (dB),min,-9.5
+sensor10,gatewayB,Spreading Factor (-),min,7.0
+sensor10,gatewayB,Bandwidth (Hz),min,125000.0
+sensor10,gatewayB,Frequency (Hz),min,903900000.0
+sensor10,gatewayB,Airtime (s),min,0.056576
+sensor10,gatewayB,Counter (-),min,175996.0
+sensor10,gatewayB,# Receiving Gateways (-),min,1.0
+sensor10,gatewayB,RSSI (dBm),max,-95.0
+sensor10,gatewayB,SNR (dB),max,-1.0
+sensor10,gatewayB,Spreading Factor (-),max,7.0
+sensor10,gatewayB,Bandwidth (Hz),max,125000.0
+sensor10,gatewayB,Frequency (Hz),max,905300000.0
+sensor10,gatewayB,Airtime (s),max,0.061696
+sensor10,gatewayB,Counter (-),max,181309.0
+sensor10,gatewayB,# Receiving Gateways (-),max,4.0
+sensor10,gatewayB,RSSI (dBm),count,194.0
+sensor10,gatewayB,SNR (dB),count,193.0
+sensor10,gatewayB,Spreading Factor (-),count,194.0
+sensor10,gatewayB,Bandwidth (Hz),count,194.0
+sensor10,gatewayB,Frequency (Hz),count,194.0
+sensor10,gatewayB,Airtime (s),count,194.0
+sensor10,gatewayB,Counter (-),count,194.0
+sensor10,gatewayB,# Receiving Gateways (-),count,194.0
+sensor10,gatewayC,RSSI (dBm),mean,-104.93834726090994
+sensor10,gatewayC,SNR (dB),mean,4.588962605548854
+sensor10,gatewayC,Spreading Factor (-),mean,7.0
+sensor10,gatewayC,Bandwidth (Hz),mean,125000.0
+sensor10,gatewayC,Frequency (Hz),mean,904597790.1578459
+sensor10,gatewayC,Airtime (s),mean,0.05669199628597957
+sensor10,gatewayC,Counter (-),mean,178730.21002785515
+sensor10,gatewayC,# Receiving Gateways (-),mean,1.8497678737233054
+sensor10,gatewayC,RSSI (dBm),std,3.2671859949956374
+sensor10,gatewayC,SNR (dB),std,4.201897655405715
+sensor10,gatewayC,Spreading Factor (-),std,0.0
+sensor10,gatewayC,Bandwidth (Hz),std,0.0
+sensor10,gatewayC,Frequency (Hz),std,458513.59249418695
+sensor10,gatewayC,Airtime (s),std,0.0007619407163691227
+sensor10,gatewayC,Counter (-),std,1607.7432970428454
+sensor10,gatewayC,# Receiving Gateways (-),std,0.48173592772063795
+sensor10,gatewayC,RSSI (dBm),min,-113.0
+sensor10,gatewayC,SNR (dB),min,-9.0
+sensor10,gatewayC,Spreading Factor (-),min,7.0
+sensor10,gatewayC,Bandwidth (Hz),min,125000.0
+sensor10,gatewayC,Frequency (Hz),min,903900000.0
+sensor10,gatewayC,Airtime (s),min,0.056576
+sensor10,gatewayC,Counter (-),min,175963.0
+sensor10,gatewayC,# Receiving Gateways (-),min,1.0
+sensor10,gatewayC,RSSI (dBm),max,-91.0
+sensor10,gatewayC,SNR (dB),max,15.0
+sensor10,gatewayC,Spreading Factor (-),max,7.0
+sensor10,gatewayC,Bandwidth (Hz),max,125000.0
+sensor10,gatewayC,Frequency (Hz),max,905300000.0
+sensor10,gatewayC,Airtime (s),max,0.061696
+sensor10,gatewayC,Counter (-),max,181508.0
+sensor10,gatewayC,# Receiving Gateways (-),max,4.0
+sensor10,gatewayC,RSSI (dBm),count,5385.0
+sensor10,gatewayC,SNR (dB),count,4974.0
+sensor10,gatewayC,Spreading Factor (-),count,5385.0
+sensor10,gatewayC,Bandwidth (Hz),count,5385.0
+sensor10,gatewayC,Frequency (Hz),count,5385.0
+sensor10,gatewayC,Airtime (s),count,5385.0
+sensor10,gatewayC,Counter (-),count,5385.0
+sensor10,gatewayC,# Receiving Gateways (-),count,5385.0
