@@ -144,7 +144,13 @@ def load_and_prepare_packets(
     target_freq_mhz: float = TARGET_FREQ_MHZ,
     outlier_db: float = OUTLIER_DB,
     min_pkts: int = MIN_PKTS,
+    attack_scope: str = "global",
+    attack_sensor: str = None,
+    attack_gateway: str = None,
     rssi_shift_db: float = 0.0,
+    rssi_noise_sigma_db: float = 0.0,
+    drop_prob: float = 0.0,
+    seed: int = 0,
 ) -> pd.DataFrame:
     """
     Unified loader used by both traditional and regression paths.
@@ -161,10 +167,66 @@ def load_and_prepare_packets(
     # Copy so we can safely modify RSSI and derived columns
     raw = raw.copy()
 
-    # Optional attack/perturbation hook: global RSSI shift (e.g., foil attenuation).
-    # This preserves the normal (no-attack) path when rssi_shift_db == 0.
-    if rssi_shift_db != 0.0:
-        raw["rssi_dbm"] = raw["rssi_dbm"] + float(rssi_shift_db)
+        # ----------------------------
+    # Attack mask (what rows are targeted)
+    # ----------------------------
+    scope = attack_scope
+    s = attack_sensor
+    g = attack_gateway
+
+    if scope == "global":
+        mask = np.ones(len(raw), dtype=bool)
+    elif scope == "sensor":
+        if not s:
+            raise ValueError("attack_scope='sensor' requires attack_sensor")
+        mask = (raw["sensor"] == s).to_numpy()
+    elif scope == "gateway":
+        if not g:
+            raise ValueError("attack_scope='gateway' requires attack_gateway")
+        mask = (raw["gateway"] == g).to_numpy()
+    elif scope == "link":
+        if not s or not g:
+            raise ValueError("attack_scope='link' requires attack_sensor and attack_gateway")
+        mask = ((raw["sensor"] == s) & (raw["gateway"] == g)).to_numpy()
+    else:
+        raise ValueError(f"Unknown attack_scope: {scope}")
+
+    # ----------------------------
+    # Packet drop / jamming (drop targeted packets)
+    # ----------------------------
+    if drop_prob and drop_prob > 0.0:
+        if not (0.0 < drop_prob < 1.0):
+            raise ValueError("drop_prob must be in (0,1)")
+        rng = np.random.default_rng(int(seed))
+        keep = np.ones(len(raw), dtype=bool)
+        # only drop within mask
+        drop_draw = rng.random(mask.sum())
+        keep_idx = np.where(mask)[0]
+        keep[keep_idx] = drop_draw >= float(drop_prob)
+        raw = raw.loc[keep].copy()
+        # recompute mask after dropping (indices changed)
+        if scope == "global":
+            mask = np.ones(len(raw), dtype=bool)
+        elif scope == "sensor":
+            mask = (raw["sensor"] == s).to_numpy()
+        elif scope == "gateway":
+            mask = (raw["gateway"] == g).to_numpy()
+        else:
+            mask = ((raw["sensor"] == s) & (raw["gateway"] == g)).to_numpy()
+
+    # ----------------------------
+    # RSSI shift (foil / gateway bias) applied ONLY to targeted packets
+    # ----------------------------
+    if rssi_shift_db and rssi_shift_db != 0.0:
+        raw.loc[mask, "rssi_dbm"] = raw.loc[mask, "rssi_dbm"] + float(rssi_shift_db)
+
+    # ----------------------------
+    # Random noise attack (Gaussian per packet, targeted by mask)
+    # ----------------------------
+    if rssi_noise_sigma_db and rssi_noise_sigma_db > 0.0:
+        rng = np.random.default_rng(int(seed))
+        noise = rng.normal(loc=0.0, scale=float(rssi_noise_sigma_db), size=int(mask.sum()))
+        raw.loc[mask, "rssi_dbm"] = raw.loc[mask, "rssi_dbm"] + noise
 
     # Recompute freq_mhz because load_all_pairs already frequency_filter'ed
     raw["freq_mhz"] = (raw["freq_hz"] / 1e6).round(0)

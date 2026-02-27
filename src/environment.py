@@ -24,11 +24,19 @@ class LoRaWANEnvironmentConfig:
     target_freq_mhz: float = 915.0
     outlier_db: float = 20.0
     min_pkts: int = 10
-    # Optional RSSI shift (dB) applied at load time, used for attack simulations.
-    # 0.0 means \"no attack\" / normal inference.
+    # ---- Attack controls 
+    attack_scope: AttackScope = "global"
+    attack_sensor: Optional[str] = None
+    attack_gateway: Optional[str] = None
+    # RSSI perturbations
+    rssi_shift_db: float = 0.0              # foil / bias
+    rssi_noise_sigma_db: float = 0.0        # random noise
+    # packet drop / jamming
+    drop_prob: float = 0.0                  # probability to drop targeted packets
+    # reproducibility for noise/drop
+    seed: int = 0
     rssi_shift_db: float = 0.0
     pairs_csv_cache: Optional[str] = None
-
 
 class LoRaWANEnvironment:
     """
@@ -50,12 +58,18 @@ class LoRaWANEnvironment:
         if self._pairs_df is None:
             c = self.config
             self._pairs_df = load_and_prepare_packets(
-                data_dir=c.data_dir,
-                target_freq_mhz=c.target_freq_mhz,
-                outlier_db=c.outlier_db,
-                min_pkts=c.min_pkts,
-                rssi_shift_db=c.rssi_shift_db,
-            )
+                            data_dir=c.data_dir,
+                            target_freq_mhz=c.target_freq_mhz,
+                            outlier_db=c.outlier_db,
+                            min_pkts=c.min_pkts,
+                            attack_scope=c.attack_scope,
+                            attack_sensor=c.attack_sensor,
+                            attack_gateway=c.attack_gateway,
+                            rssi_shift_db=c.rssi_shift_db,
+                            rssi_noise_sigma_db=c.rssi_noise_sigma_db,
+                            drop_prob=c.drop_prob,
+                            seed=c.seed,
+                        )
             if c.pairs_csv_cache:
                 summarize_pairs_to_csv(self._pairs_df, c.pairs_csv_cache)
         return self._pairs_df
