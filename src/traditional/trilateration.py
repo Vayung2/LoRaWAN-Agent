@@ -55,5 +55,16 @@ def trilaterate_all(
             'x_true': x_true, 'y_true': y_true,
             'error_m': err_m
         })
+    if not rows:
+        return pd.DataFrame(
+            columns=[
+                "sensor",
+                "n_gateways_used",
+                "x_est",
+                "y_est",
+                "x_true",
+                "y_true",
+                "error_m",
+            ]
+        )
     return pd.DataFrame(rows).sort_values('sensor').reset_index(drop=True)
-
